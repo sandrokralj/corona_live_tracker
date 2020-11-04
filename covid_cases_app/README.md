@@ -1,6 +1,6 @@
 # covid_cases_app
 
-A new Flutter application.
+App that shows live COVID-19 cases
 
 ## Getting Started
 
